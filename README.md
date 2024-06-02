@@ -1,2 +1,3 @@
 # Google Spreadsheet Hour Logger
  
+This project reads inputs from a Google Forms Spreadsheet for members of the Science National Honor Society and Mu Alpha Theta Math Honor Society, and sends emails to each member confirming that their hours have been recorded and informing them of how many hours they have left to meet the requirements. I made this program because I was the President and Vice President of the Math and Science Honor Societies, respectively.
